@@ -2,16 +2,16 @@ schema_version = "1.0.0"
 
 # Example of manifest file for a Blender extension
 # Change the values according to your extension
-id = "path_forge"
+id = "origin_doctor"
 version = "0.1.0"
-name = "Path Forge"
-tagline = "Tools for creating and editing spline-based paths"
+name = "Origin Doctor"
+tagline = "Tools for manipulating object origins"
 maintainer = "dmcoy"
 # Supported types: "add-on", "theme"
 type = "add-on"
 
 # # Optional: link to documentation, support, source files, etc
-website = "https://github.com/dmcoy/path-forge"
+website = "https://github.com/dmcoy/origin-doctor"
 
 # # Optional: tag list defined by Blender and server, see:
 # # https://docs.blender.org/manual/en/dev/advanced/extensions/tags.html
