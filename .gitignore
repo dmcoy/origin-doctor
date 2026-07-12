@@ -3,3 +3,6 @@
 
 # Tests folder
 /tests/
+
+# zip files
+*.zip
