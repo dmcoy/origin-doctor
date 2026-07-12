@@ -7,8 +7,9 @@ A blender add-on for creating and editing spline-based paths
 
 ### Implemented
 **Axis Reorientation**
+
 Change the orientation of an objects axis without changing the orientation of the object itself.
-<img width="200" alt="image" src="/readme_images/path-forge.png" />
+<img width="300" alt="image" src="/readme_images/path-forge.png" />
 
 ### Planned
 - Set origin to geometry (one-click button)
