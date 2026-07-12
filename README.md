@@ -1,5 +1,5 @@
-# Path Forge
-A blender add-on for creating and editing spline-based paths
+# Origin Doctor
+A blender add-on for quickly manipulating object origins
 
 :construction: This Blender add-on is currently under development :construction:
 
