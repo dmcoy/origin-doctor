@@ -1,26 +1,19 @@
 # Origin Doctor
 A blender add-on for quickly manipulating object origins
 
-:construction: This Blender add-on is currently under development :construction:
-
 ## Installation
 Download the .zip file from release and install from disk in Blender under **Preferences** --> **Add-ons**
 
+## Usage
+The Origin Doctor add-on is in the 3D viewport. Press `n` to show the sidebar panels. This add-on can be used in object mode and edit mode.
+
 ## Features
+<img width="300" alt="image" src="/readme_images/origin-doctor.png" />
 
-### Implemented
-**Axis Reorientation**
+**Change Origin Orientation**
 
-Change the orientation of an objects axis without changing the orientation of the object itself.
-<img width="300" alt="image" src="/readme_images/path-forge.png" />
+This changes the orientation of the origin while preserving the object's position and rotation.
 
-### Planned
-- Set origin to geometry (one-click button)
-- Curve generation from selected objects
-- Coordinate calculation for missing points
-- CSV coordinate import
-- CSV coordinate export
+**Set Origin**
 
-### Potential
-- No Limits 2 track data import/export
-
+These buttons are shortcuts to the set origin options. These will work for all selected objects.
